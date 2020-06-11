@@ -182,7 +182,7 @@ def update_graph(prev_value,sensi_value,speci_value):
                 textposition="top center",
                 showlegend=False
         ), dict(
-                x=[15,16,16],
+                x=[10,11,11],
                 y=[1.15,2.15,3.15],
                 mode="text",
                 #name="Lines, Markers and Text",
